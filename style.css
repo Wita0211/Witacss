@@ -1,0 +1,18 @@
+body{
+	background-color: #9933ff;
+	font-family: Arial, sans-serif;
+	color: #333;
+}
+
+.b{
+	background-color: black;
+}
+
+footer{
+background-color: #fff;
+padding: 20px;
+border-top: 1px solid #ccc;
+text-align: center;
+font-size: 14px;
+margin-top: 50px
+}
